@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bradley D.O
-- 👀 I’m interested in Web Design and development.
-- 🌱 I’m currently learning Java and Cyber Security
-- 💞️ I’m looking to collaborate on Web Development 
+- 👋 Hi, I’m Bradley 
+- 👀 I’m interested in Ethical Hacking.
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I’m looking to collaborate Cyber Security matters alongside Ethical Hacking
 
 
 <!---
