@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bradley 
-- 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate Cyber Security matters alongside Ethical Hacking
 
 
