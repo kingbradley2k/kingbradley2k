@@ -2,15 +2,18 @@
 
 [![Bug Bounty Hunter](https://img.shields.io/badge/-Bug%20Bounty%20Hunter-brightgreen)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)]()
 [![Web Security](https://img.shields.io/badge/-Web%20Security-red)]()
 
-Security researcher focusing on web application vulnerabilities and bug bounties. JavaScript developer building secure, scalable web solutions.
+Frontend specialist and security researcher focusing on web application vulnerabilities and bug bounties. Building secure, responsive, and scalable web solutions.
 
 ## 🔐 Expertise
 
 - Web Application Security Assessment
-- Vulnerability Research & Disclosure
-- Full-Stack JavaScript Development
+- Advanced Frontend Development (HTML5, CSS3, JavaScript)
+- Responsive Design & Cross-browser Compatibility
+- UI/UX Implementation
 - Bug Bounty Hunting
 - Secure Code Review
 
@@ -18,9 +21,13 @@ Security researcher focusing on web application vulnerabilities and bug bounties
 
 ```javascript
 const techStack = {
-    languages: ['JavaScript', 'HTML', 'CSS'],
+    frontend: {
+        html: ['HTML5', 'Semantic Markup', 'Accessibility'],
+        css: ['CSS3', 'Flexbox', 'Grid', 'Sass', 'Responsive Design'],
+        javascript: ['ES6+', 'DOM Manipulation', 'Modern APIs']
+    },
     security: ['Burp Suite', 'OWASP Tools', 'Vulnerability Assessment'],
-    webDev: ['Node.js', 'React', 'Express'],
+    frameworks: ['React', 'Node.js', 'Express'],
     tools: ['Git', 'VS Code', 'Chrome DevTools']
 };
 ```
@@ -34,11 +41,12 @@ const techStack = {
 
 ## 📫 Connect
 
-
-- Twitter @danokosh
+- Twitter: @danokosh 
   
 
 *Feel free to reach out for collaboration on security research or web development projects!*
+   
+
 
 
 <!---
