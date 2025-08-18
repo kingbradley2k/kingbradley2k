@@ -1,55 +1,59 @@
-# 👨‍💻 Security Researcher & Web Developer
+![Bradley Duncan Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header&text=Okore%20Osotsi%20|%20Fullstack%20Dev%20&%20Cybersecurity%20Enthusiast&fontSize=22&fontColor=ffffff&animation=fadeIn)
 
-[![Bug Bounty Hunter](https://img.shields.io/badge/-Bug%20Bounty%20Hunter-brightgreen)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)]()
-[![Web Security](https://img.shields.io/badge/-Web%20Security-red)]()
+# 👋 Hi, I'm Okore Osotsi  
 
-Frontend specialist and security researcher focusing on web application vulnerabilities and bug bounties. Building secure, responsive, and scalable web solutions.
+### 💻 Full-Stack Developer | ⚡ Cybersecurity Enthusiast  
 
-## 🔐 Expertise
+I'm a passionate **Full-Stack Developer** who loves building scalable applications with **Node.js** and exploring the exciting world of **Cybersecurity**.  
+I enjoy solving complex problems, learning new technologies, and creating projects that make an impact.  
 
-- Web Application Security Assessment
-- Advanced Frontend Development (HTML5, CSS3, JavaScript)
-- Responsive Design & Cross-browser Compatibility
-- UI/UX Implementation
-- Bug Bounty Hunting
-- Secure Code Review
+---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+- 🌐 Skilled in **JavaScript, Node.js, Express, MongoDB, SQL**  
+- 🎨 Comfortable with **Frontend Development** (React, TailwindCSS, Android - Java)  
+- 🔐 Growing interest in **Cybersecurity, PenTesting & Bug Bounties**  
+- 📚 Currently exploring **DevSecOps** and **Secure Software Development**  
+- 🎯 Goal: Blend **software engineering** with **security expertise**  
 
-```javascript
-const techStack = {
-    frontend: {
-        html: ['HTML5', 'Semantic Markup', 'Accessibility'],
-        css: ['CSS3', 'Flexbox', 'Grid', 'Sass', 'Responsive Design'],
-        javascript: ['ES6+', 'DOM Manipulation', 'Modern APIs']
-    },
-    security: ['Burp Suite', 'OWASP Tools', 'Vulnerability Assessment'],
-    frameworks: ['React', 'Node.js', 'Express'],
-    tools: ['Git', 'VS Code', 'Chrome DevTools']
-};
-```
+---
 
-## 📈 Current Focus
+## 🛠️ Tech Stack  
 
-- Expanding bug bounty portfolio
-- Contributing to open-source security tools
-- Developing secure web applications
-- Sharing knowledge through security write-ups
+**Languages & Frameworks**  
+- Node.js | Express.js | React | Java | Python (basics)  
 
-## 📫 Connect
+**Databases**  
+- MongoDB | Supabase | MySQL | SQLite  
 
-- Twitter: @danokosh 
-  
+**Tools & Platforms**  
+- Git & GitHub | Docker | Postman | VS Code | Android Studio  
 
-*Feel free to reach out for collaboration on security research or web development projects!*
-   
+**Cybersecurity**  
+- Kali Linux | Wireshark | Nmap | Burp Suite  
 
+---
 
+## 📌 Featured Projects  
+🔹 [**Remote Medical Diagnostics System (RMDS)**](#) – AI-assisted platform for preliminary diagnosis + doctor-patient connections  
+🔹 [**Hotel Ordering App**](#) – Android app with Node.js backend for hotel service ordering  
+🔹 [**Food Ordering & Delivery System**](#) – Hostel-focused delivery solution for students  
 
-<!---
-kingbradley2k/kingbradley2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Stats  
+
+![Okore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okore-Osotsi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okore-Osotsi&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 🌍 Portfolio: [Coming Soon]  
+- 💼 LinkedIn: [Coming Soon]  
+- 🐦 Twitter (X): [@danokosh](https://x.com/danokosh)  
+- 📧 Email: catersuniversity@yahoo.com  
+
+---
+
+⭐️ *“Building with code, securing with passion.”*  
