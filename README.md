@@ -43,8 +43,8 @@ I enjoy solving complex problems, learning new technologies, and creating projec
 
 ## 📊 GitHub Stats  
 
-![Okore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okore-Osotsi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okore-Osotsi&layout=compact&theme=radical)  
+![Okore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingbradley2k&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingbradley2k&layout=compact&theme=radical)  
 
 ---
 
