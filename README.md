@@ -51,7 +51,7 @@ I enjoy solving complex problems, learning new technologies, and creating projec
 ## 📫 Connect With Me  
 - 🌍 Portfolio: [Coming Soon]  
 - 💼 LinkedIn: [Coming Soon]  
-- 🐦 Twitter (X): [@danokosh](https://x.com/danokosh)  
+- 🐦 Twitter (X): [@danokosh](https://x.com/okore_osotsi)  
 - 📧 Email: catersuniversity@yahoo.com  
 
 ---
