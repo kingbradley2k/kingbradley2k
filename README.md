@@ -1,59 +1,89 @@
-![Bradley Duncan Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header&text=Okore%20Osotsi%20|%20Fullstack%20Dev%20&%20Cybersecurity%20Enthusiast&fontSize=22&fontColor=ffffff&animation=fadeIn)
+# 👋 Hi, I’m Bradley
 
-# 👋 Hi, I'm Okore Osotsi  
+> Building apps. Breaking apps. Securing apps. ☕💻🔐
 
-### 💻 Full-Stack Developer | ⚡ Cybersecurity Enthusiast  
+I’m an **aspiring Application Security Engineer** and **Full-Stack Developer** who enjoys understanding how systems work — and how they break — so I can build them better and safer.
 
-I'm a passionate **Full-Stack Developer** who loves building scalable applications with **Node.js** and exploring the exciting world of **Cybersecurity**.  
-I enjoy solving complex problems, learning new technologies, and creating projects that make an impact.  
-
----
-
-## 🚀 About Me  
-- 🌐 Skilled in **JavaScript, Node.js, Express, MongoDB, SQL**  
-- 🎨 Comfortable with **Frontend Development** (React, TailwindCSS, Android - Java)  
-- 🔐 Growing interest in **Cybersecurity, PenTesting & Bug Bounties**  
-- 📚 Currently exploring **DevSecOps** and **Secure Software Development**  
-- 🎯 Goal: Blend **software engineering** with **security expertise**  
+I like my code clean, my attack surfaces small, and my coffee warm.
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages & Frameworks**  
-- Node.js | Express.js | React | Java | Python (basics)  
-
-**Databases**  
-- MongoDB | Supabase | MySQL | SQLite  
-
-**Tools & Platforms**  
-- Git & GitHub | Docker | Postman | VS Code | Android Studio  
-
-**Cybersecurity**  
-- Kali Linux | Wireshark | Nmap | Burp Suite  
+## 🧠 What I’m Focused On
+- 🔐 Application Security (Web & Mobile)
+- 🕵️‍♂️ Finding vulnerabilities in apps I build
+- 🧩 Secure backend design & APIs
+- 📱 Android development (Java)
+- 🌐 Full-stack web development
+- 🐧 Linux, Docker & security tooling
 
 ---
 
-## 📌 Featured Projects  
-🔹 [**Remote Medical Diagnostics System (RMDS)**](#) – AI-assisted platform for preliminary diagnosis + doctor-patient connections  
-🔹 [**Hotel Ordering App**](#) – Android app with Node.js backend for hotel service ordering  
-🔹 [**Food Ordering & Delivery System**](#) – Hostel-focused delivery solution for students  
+## 🛠 Tech Stack & Tools
+
+**Languages**
+- Java ☕
+- JavaScript
+- HTML / CSS
+- SQL
+
+**Frameworks & Platforms**
+- Android (Java + XML)
+- Node.js
+- MongoDB
+- Supabase
+
+**Security & DevOps**
+- Nmap
+- Wireshark
+- Burp Suite (learning)
+- Docker
+- Kali Linux
+
+**Version Control**
+- Git & GitHub
 
 ---
 
-## 📊 GitHub Stats  
+## 🔍 How I Think
+> “If I were an attacker, where would I start?”
 
-![Okore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingbradley2k&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingbradley2k&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect With Me  
-- 🌍 Portfolio: [Coming Soon]  
-- 💼 LinkedIn: [Coming Soon]  
-- 🐦 Twitter (X): [@danokosh](https://x.com/okore_osotsi)  
-- 📧 Email: catersuniversity@yahoo.com  
+- I build features, then try to break them  
+- I care about **input validation**, **auth flows**, and **data exposure**
+- I believe secure code is part of good UX
 
 ---
 
-⭐️ *“Building with code, securing with passion.”*  
+## 🚀 Projects & Experiments
+- 📦 Secure backend APIs
+- 📱 Android apps (UI + logic focus)
+- 🏥 Telemedicine & health monitoring systems
+- 🗺 Land measuring & map-based apps
+- 🔐 AppSec learning labs & vulnerability testing
+
+_(More coming as I grow 👀)_
+
+---
+
+## 📚 Currently Learning
+- Web & Mobile AppSec fundamentals
+- OWASP Top 10
+- Secure authentication & authorization
+- Bug bounty mindset
+- Threat modeling for developers
+
+---
+
+## 🎯 Long-Term Goal
+To become a **strong AppSec Engineer** who understands development deeply — not just tools, but real-world systems.
+
+Build. Break. Fix. Repeat.
+
+---
+
+## ☕ Let’s Connect
+- 💬 Open to collaboration, learning & building
+- 🌍 Based in Kenya 🇰🇪
+- 🧠 Always curious
+
+> _“Quiet professionals don’t announce themselves — their work does.”_
+
